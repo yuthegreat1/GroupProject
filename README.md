@@ -4,12 +4,12 @@ How Netflix Originals perform compared to other content on the platform?
 ## Team Members: 
 Allie Carlile, Brevin Owens, Brandon Yu
 ## Datasets to be used: 
-| Netflix Orignals| https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores |
-| Netflix content|https://github.com/victoramsantos/netflix-backend/blob/master/movie-scraper/resources/dataset/IMDB-Movie-Data.csv|
-| Hulu| https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows |
-| Amazon Prime Video| https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows|
-| Disney| https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows|
-| IMDB Ratings| https://rapidapi.com/blog/how-to-use-imdb-api/|
+-Netflix Orignals https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores
+-Netflix content https://github.com/victoramsantos/netflix-backend/blob/master/movie-scraper/resources/dataset/IMDB-Movie-Data.csv
+-Hulu https://www.kaggle.com/datasets/shivamb/hulu-movies-and-tv-shows
+-Amazon Prime Video https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+-Disney https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+-IMDB Ratings https://rapidapi.com/blog/how-to-use-imdb-api/
 ## Project Description/Outline:
 We choose to analyze netflix originals because we wanted to compare the content that netflix makes compared to the content it hosts. We are all netflix watchers and curious about what's going to perform well. With netflix stock decreasing we want to see whether the influx of original content can improve netflix and stop its stock from decreasing. 
 ## Inital Questions:
