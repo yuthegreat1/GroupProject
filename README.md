@@ -1,4 +1,4 @@
-## Project Title: 
+## Project Title: Stream it or Skip it: Netflix or Other Streaming Platforms
 ## Research Questions to Answer: 
 How Netflix Originals perform compared to other content on the platform?
 ## Team Members: 
