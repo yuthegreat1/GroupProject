@@ -1,5 +1,5 @@
 ## Project Title: Stream it or Skip it: Netflix or Other Streaming Platforms
-## Slideshow presentation link:
+## Slideshow Presentation Link:
 https://docs.google.com/presentation/d/1QqVZHWmqhooQMctipirPp16ylWK7wH9HcjRCZKoN9cA/edit?usp=sharing
 ## Research Questions to Answer: 
 How Netflix Originals perform compared to other content on the platform?
@@ -50,5 +50,13 @@ We choose to analyze netflix originals because we wanted to compare the content 
 
     - We decided not to include a image for Amazon Prime Video here as our data set that we used had a lot of NA values for the date uploaded. So much so that the only year we had data for was the most recent year of upload, 2021. This was still helpful though, as it told us that Amazon Prime Video has a current focus on TV Show uploads. For the other streaming services, Netflix of course had a lot of movie uploads over the years, but in the last year had a sharp decline in movie uploads whereas the TV Show uploads stayed fairly consistent. This leads us to believe that Netflix is currently focusing on TV Shows versus movies. As for Hulu and Disney+, Hulu appears to have a heavy focus on movie uploads as they have consistently uploaded more and more movies over the last few years. Lastly, for Disney+, we only have the last 3 years of uploads available (2019-2021), but this is because Disney+ is a young platform that is just 3 years old. In their first year as a platform, they uploaded a lot of movies compared to TV Shows but this quickly changed as the uploads were very similar in 2021. This leads us to believe that Disney+ also has a similar focus on TV Shows similar to that of Netflix. 
     - Overall, what this question showed us is that Netflix has a lot of content on their platform and tends to lean on TV Shows in the last few years which differs from one of their counterparts - Hulu. However, Netflix seems to be on the same track as Disney+ and Amazon Prime so we had to look at other data sources to determine why they have struggled in recent years. 
+2. Question 2: How does Netflix's original content compare to content that Netflix only hosts?
+    - We moved this question second as it better flowed in the presentation.
+    - The content that Netflix creates as opposed to the content that Netflix syndicates or hosts is, on average, worse. This indicates that the content Netflix creates is not of as high of quality as the content that it hosts. Even when splitting the content by genre, Netflix originals are not as highly rated as content that Netflix syndicates.
+    - (see image below)
+
+    ![alttext](https://github.com/yuthegreat1/GroupProject/blob/main/Figures/NetflixOriginalsvsNetflixRatings.png?raw=true)
+    
+    - Which makes sense when you consider that Netflix actively acquires the content due to its performance. Content that does poorly would not be acquired. Content that Netflix creates does not go through this vetting process and would be expected to do worse. Another reason for this discrepancy in quality would be because the dataset is the top-rated Netflix movies for our content.
 
     
