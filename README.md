@@ -1,4 +1,6 @@
 ## Project Title: Stream it or Skip it: Netflix or Other Streaming Platforms
+## Slideshow presentation link:
+https://docs.google.com/presentation/d/1QqVZHWmqhooQMctipirPp16ylWK7wH9HcjRCZKoN9cA/edit?usp=sharing
 ## Research Questions to Answer: 
 How Netflix Originals perform compared to other content on the platform?
 ## Team Members: 
@@ -24,3 +26,9 @@ We choose to analyze netflix originals because we wanted to compare the content 
     statistician extraordinaire - will be responsible for finalizing analytical findings and backing up analysis with statistical tests - allie
     master of ceremonies - will be responsible for finalizing the presentation slides - brevin
     project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving - allie
+## Statistical Analysis: 
+1. Question 1: What content is Netflix focusing on versus other streaming platforms?
+    - We changed this question to due to a limitation brought to us by the data set. We were unable to find data on original content by other streaming services, such as Hulu and HBO. Therefore, what we decided to focus on for this question was the current state of the platforms and how they differ from Netflix. We also took this a step further and looked at what type of content the companies have been uploading to their platform over the years. 
+    - As of mid 2021, which is when our data sets collected this data, Netflix had a majority of movies on there platform. Which is also true for Amazon Prime Video and Disney+. However, Hulu is different as they primarily have TV shows on their platform as shown by the folllowing images: 
+    (/GroupProject/Figures/NetflixContentCount.png?raw=true "Netflix Content by Type")
+    - As stated above, we then took a look to 
